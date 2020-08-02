@@ -1,10 +1,14 @@
 import Head from 'next/head'
 import { MainLayout } from '../components/MainLayout'
 
-export default function Index(){
+export default function Test(){
     return (
         <MainLayout>
-            <h1>Hello Next</h1>
+            <Head>
+                <title>Posts</title>
+            </Head>
+
+            Posts
         </MainLayout>
     )
 }
