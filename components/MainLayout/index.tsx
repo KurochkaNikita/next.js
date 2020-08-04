@@ -3,7 +3,7 @@ import { Children } from "react";
 import React from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
-import { Nav, Main } from './style.js';
+import { Nav, Main } from './style.tsx';
 
 export function MainLayout({children, title = 'Next.js App'}) {
     return (

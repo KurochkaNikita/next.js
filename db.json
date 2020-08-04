@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {"id": 1, "title": "Post about Car", "body": "Car is cool. Car is cool. Car is cool. Car is cool. Car is cool."},
+    {"id": 2, "title": "Post about JavaScript", "body": "JavaScript is cool"},
+    {"id": 3, "title": "Post is empty", "body": ""}
+  ],
+  "about": {
+    "title": "Page about us"
+  }
+}
